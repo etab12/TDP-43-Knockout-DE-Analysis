@@ -1,4 +1,5 @@
-# TDP-43-Knockout-DE-Analysis
+
+
  # TDP-43 KO vs WT RNA-seq Analysis (Chromosome 2)
 
 This project was completed as part of the **KAUST Advanced Bioinformatics** course. It implements a complete RNA-seq analysis workflow, starting from raw sequencing data and progressing through quality control, quantification, differential expression analysis, visualization, and pathway enrichment analysis.
@@ -58,5 +59,13 @@ project-name/
 ### 6. Pathway Enrichment Analysis
 - Identification of overrepresented biological pathways
 - Interpretation of biological relevance
+
+ ### 7. Results
+
+The final report includes:
+
+- Top significantly differentially expressed genes (upregulated and downregulated)  
+- Associated pathways and biological functions of these genes  
+- Insights from recent studies investigating the roles of these genes, particularly on **Chromosome 2**, in neurodegenerative diseases and related pathways
 
  
