@@ -10,7 +10,7 @@ Link:
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE136366
 
  
-- Reference files Preparation (Ensembl GRCh38 Release 115)
+# Reference files Preparation (Ensembl GRCh38 Release 115)
   
 1️- Download Chromosome2 Genome (FASTQ)
 ```bash
