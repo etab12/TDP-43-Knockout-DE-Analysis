@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ===============================
-# RNA-seq Analysis (Chromosome 2) Project
+# Quality Control Pipeline
 # Path: ~/genomics/ch2_project
 # ===============================
 
