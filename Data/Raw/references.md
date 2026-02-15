@@ -9,13 +9,13 @@ Database: Gene Expression Omnibus
 Link:
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE136366
 
-Note: FASTQ files are not stored in this repository due to GitHub size limitations.
-
+ 
 🧬 Reference Preparation (Ensembl GRCh38 Release 115)
 1️⃣ Download Chromosome 2 Genome (FASTA)
+'''bash
 wget https://ftp.ensembl.org/pub/release-115/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.chromosome.2.fa.gz
 gunzip Homo_sapiens.GRCh38.dna.chromosome.2.fa.gz
-
+'''
 
 Output:
 
