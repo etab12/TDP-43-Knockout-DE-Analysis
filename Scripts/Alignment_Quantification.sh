@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ===============================
-# Alignment Pipeline (Chromosome2)
+# Alignment Pipeline 
 # Salmon Quantification
 # Path: ~/genomics/ch2_project
 # ===============================
