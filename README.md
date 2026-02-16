@@ -4,7 +4,6 @@
 
 This project was completed as part of the **KAUST Academy Advanced Bioinformatics** course. It implements a complete RNA-seq analysis workflow, starting from raw sequencing data and progressing through quality control, quantification, differential expression analysis, visualization, and pathway enrichment analysis.
 
-The study compares **TDP-43 knockout (KO)** and **wildtype (WT)** samples, with a specific focus on genes located on **Chromosome 2**, to investigate the transcriptional consequences of TDP-43 deletion.
 
 ## Objective
 
